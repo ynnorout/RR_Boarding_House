@@ -1,0 +1,8 @@
+addBarangay
+edit the code so that it add a message in the details of tblactivitylog, the message is add new barangay then the barangay name
+
+editBarangay
+edit the code so that it add a record to the tblactivitylog, log_type is update and details should include the name old name and the updated name, if no records have been change then dont save to the tblactivitylog
+
+deleteBarangay
+edit the code so that it add a record to the tblactivitylog, log_type is delete and details should include the name of the record being deleted
