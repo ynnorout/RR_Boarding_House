@@ -3,6 +3,8 @@
 ## Project Overview
 The RR Boarding House Management System is a web application designed to help manage boarding house operations. It allows administrators to handle tenants, rooms, bed assignments, invoices, and payments while maintaining digital records.
 
+<img src="https://github.com/HawtStrokes/RR_Boarding_House/blob/main/res/sample.png">
+
 ## Features
 - Tenant Management – Add, update, and manage tenant details.
 - Room & Bed Management – Assign tenants to available rooms and beds.
